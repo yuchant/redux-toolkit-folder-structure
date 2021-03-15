@@ -1,0 +1,32 @@
+{
+  "name": "redux-toolkit-folder-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -p 3003"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuchant/redux-toolkit-folder-structure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuchant/redux-toolkit-folder-structure/issues"
+  },
+  "homepage": "https://github.com/yuchant/redux-toolkit-folder-structure#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.5.0",
+    "@types/node": "^14.14.34",
+    "@types/react": "^17.0.3",
+    "axios": "^0.21.1",
+    "delay": "^5.0.0",
+    "next": "^10.0.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "redux-toolkit": "^1.1.2"
+  }
+}
