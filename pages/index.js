@@ -1,5 +1,5 @@
 import { Provider, useDispatch } from "react-redux";
-import { sliceActionsAll } from "../redux/actions";
+import { sliceActionsAll } from "../redux/slice/actions";
 import store from "../redux/store";
 
 const ThunkTest = (props) => {
